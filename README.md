@@ -1,4 +1,4 @@
-### Hi there my name is Maria Gabriela
+### Olá me chamo Maria Gabriela
 
 - 🔭 Atualmente estou trabalhando com PowerBuilder
 - 🌱 Estou estudando JavaScript, TypeScript, ReactJS, CSS e HTML
